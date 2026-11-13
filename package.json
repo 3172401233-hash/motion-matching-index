@@ -1,0 +1,14 @@
+{
+  "name": "motion-matching-index",
+  "version": "0.1.0",
+  "description": "Minimal motion matching retrieval index over skeletal animation clips",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
